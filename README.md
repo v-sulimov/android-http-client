@@ -35,7 +35,7 @@ Then, include the following dependency in your `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.vsulimov:httpclient:1.0.0")
+    implementation("com.vsulimov:httpclient:1.0.1")
 }
 ```
 
