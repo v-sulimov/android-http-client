@@ -46,7 +46,7 @@ publishing {
             create<MavenPublication>("release") {
                 groupId = "com.vsulimov"
                 artifactId = "httpclient"
-                version = "1.0.2"
+                version = "1.0.3"
 
                 from(components["release"])
 
